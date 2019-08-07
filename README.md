@@ -4,7 +4,7 @@
 - Remove a to-do item with the ability to multi select
 - Show a list of to-do items
 - Filter the list of to-do items using search-as-you-type functionality
-- Mark a to-do item as complete (displayed as gray strikethrough) - Added Done! text for fun. 
+- Mark a to-do item as complete (displayed as gray strikethrough) - Added "Done!" text for fun. 
 
 ## How to run this project on your machine
 
