@@ -1,7 +1,7 @@
 const template = document.createElement('template');
 
 template.innerHTML = `
-    <h1>Pragma To-Do App</h1>
+    <h1>Simple To-Do App</h1>
 
     <form id='to-do-form'>
 
