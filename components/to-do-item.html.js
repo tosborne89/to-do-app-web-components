@@ -58,7 +58,7 @@ class ToDoItem extends HTMLElement {
     }
 
     // Toggles whether a to-do item is done or not
-    toggleDone(e) {
+    toggleDone() {
         let checkBox = this._toDoLabel.querySelector('#done-to-do-checkbox');
 
         if (checkBox.checked) {
