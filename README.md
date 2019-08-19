@@ -10,4 +10,6 @@
 
 Clone/download this repository into your htdocs/www folder. 
 
-Because this project uses ES Module imports, you must use a web-server to load the page (eg: ```python2 -m SimpleHTTPServer 8000```) and open the index.html.
+Because this project uses ES Module imports, you must use a web-server to load the page (eg: ```python -m SimpleHTTPServer 8000```) and open the index.html. 
+
+This was built using ES6, ES Modules and HTML Templates and done as a project to somewhat learn vanilla JS custom web components. 
